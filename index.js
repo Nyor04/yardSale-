@@ -3,7 +3,7 @@ const navbarEmail = document.querySelector(".navbar-email");
 const mobileMenuLogo = document.querySelector('.menu');
 const mobileMenu = document.querySelector(".mobile-menu");
 const productDetails = document.querySelector(".product-detail");
-const shoppingCar = document.querySelector(".navbar-shopping-cart");
+const shoppingCar = document.querySelector(".navbar-shopping-cart");    
 
 // <div class="product-card">
 // <img src="https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="">
